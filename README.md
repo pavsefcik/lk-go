@@ -8,11 +8,11 @@ A TUI bookmark manager — save folders, files, and URLs, then find and open the
 
 1. Clone this repo anywhere you like:
    ```zsh
-   git clone https://github.com/pavsefcik/lk
+   git clone https://github.com/pavsefcik/lk-go
    ```
 2. Build the binary:
    ```zsh
-   cd lk && go build -o lk .
+   cd lk-go && go build -o lk .
    ```
 3. Put the binary on your `$PATH`, or just call it by its full path.
 

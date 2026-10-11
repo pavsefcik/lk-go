@@ -1,4 +1,4 @@
-module github.com/pavsefcik/lk
+module github.com/pavsefcik/lk-go
 
 go 1.24.2
 
